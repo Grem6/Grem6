@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Grem6<br>💻 Full time coder, moonlighting as an artist.<br>👨‍🔬 From chem to code
+👋 Hi, I’m @Grem6<br>💻Loves coding and making art.<br>👨‍🔬 From chem to code
 
 
 # 💻 Tech Stack:
