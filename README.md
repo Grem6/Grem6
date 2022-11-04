@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=grem6&theme=white&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=grem6&theme=white&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=grem6&theme=white&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![snake gif](https://github.com/Grem6/Grem6/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Grem6/Grem6/blob/output/github-contribution-grid-snake.svg)
 
 
 
