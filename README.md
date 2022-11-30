@@ -1,8 +1,8 @@
 
 <h1 align="center">Hey, I'm Grem!</h1>
-<img align="right" height="150" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gxhq7rscp7qbxpm4s2t9wi2ls2eh3wr4zp6c23n6&rid=giphy.gif&ct=g" />
+<img align="center" height="300" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gxhq7rscp7qbxpm4s2t9wi2ls2eh3wr4zp6c23n6&rid=giphy.gif&ct=g" />
 <br>
-👨‍🔬From chem to code <br>👩‍💻Currently learning MERN Stack, Python, Solidity <br>🎨Hobby artist
+👨‍🔬<b>From chem to code</b> <br>👩‍💻Currently learning MERN Stack, Python, Solidity <br>🎨Hobby artist
 <br>
 
 
