@@ -9,6 +9,7 @@
 👨‍🔬<b>From chem to code</b> <br>👩‍💻Currently learning MERN Stack, Python, Javascript<br>🎨Hobby artist
 <br>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Grem6&data=followers,repositories,stars,commits&theme=default)](https://github.com/Grem6/github-widgetbox)
 
 
 ## 🌐 Socials:
