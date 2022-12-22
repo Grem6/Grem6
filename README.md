@@ -1,6 +1,10 @@
 
-<h1 align="center">Hey, I'm Grem!</h1>
-<img align="center" height="300" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gxhq7rscp7qbxpm4s2t9wi2ls2eh3wr4zp6c23n6&rid=giphy.gif&ct=g" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2p&weight=700&size=150&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1920&height=1080&lines=Hello!;I+am+Grem.)](https://git.io/typing-svg)
+
+<!--<img align="center" height="300" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gxhq7rscp7qbxpm4s2t9wi2ls2eh3wr4zp6c23n6&rid=giphy.gif&ct=g" /> -->
+
+
+
 <br>
 👨‍🔬<b>From chem to code</b> <br>👩‍💻Currently learning MERN Stack, Python, Javascript<br>🎨Hobby artist
 <br>
