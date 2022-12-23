@@ -29,10 +29,10 @@
 
 
 <div class='container' align="center">
-<img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Grem6&theme=white&hide_border=true&include_all_commits=true&count_private=false" />
+<img style="height: auto; width: 34%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Grem6&theme=white&hide_border=true&include_all_commits=true&count_private=false" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 33%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Grem6&theme=white&hide_border=true" />
+<img style="height: auto; width: 34%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Grem6&theme=white&hide_border=true" />
 </div>
 
 
