@@ -4,6 +4,9 @@
 <div align="center">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Grem6&data=followers,repositories,stars,commits&theme=default)](https://github.com/Grem6/github-widgetbox)
+  
+<img src="https://svg-banners.vercel.app/api?type=luminance&text1=About%20Me%20&width=800&height=400)"> 
+
 
 </div> 
 
