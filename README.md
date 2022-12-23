@@ -1,15 +1,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2p&weight=700&size=150&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1920&height=1080&lines=Hello!;I+am+Grem.;I+do%2C;Art;%26;Code)](https://git.io/typing-svg)
 
-<!--<img align="center" height="300" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gxhq7rscp7qbxpm4s2t9wi2ls2eh3wr4zp6c23n6&rid=giphy.gif&ct=g" /> -->
-
-
-<!--<img align="left" height="300" width = "1500" src="assests/terminal.gif" /> -->
-
-
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Grem6&data=followers,repositories,stars,commits&theme=default)](https://github.com/Grem6/github-widgetbox)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/grem.san) 
@@ -29,3 +27,11 @@
 
 
 
+<!--<img align="center" height="300" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gxhq7rscp7qbxpm4s2t9wi2ls2eh3wr4zp6c23n6&rid=giphy.gif&ct=g" /> -->
+<!--<img align="left" height="300" width = "1500" src="assests/terminal.gif" /> -->
+
+
+
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/grem.san) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ArunKumar) -->
