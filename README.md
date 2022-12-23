@@ -29,7 +29,7 @@
   
  </div>
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color_cover=true)](https://github.com/Grem6)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&show_offline=true&background_color=ffffff&bar_color_cover=false)](https://github.com/Grem6)
  
  
 # 📈 Grem's Stats:
