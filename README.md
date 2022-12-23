@@ -5,10 +5,16 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Grem6&data=followers,repositories,stars,commits&theme=default)](https://github.com/Grem6/github-widgetbox)
   
-<img src="https://svg-banners.vercel.app/api?type=luminance&text1=About%20Me%20&width=800&height=400)"> 
-
-
 </div> 
+
+<div align="center">
+  
+<img align="center" height="100" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gxhq7rscp7qbxpm4s2t9wi2ls2eh3wr4zp6c23n6&rid=giphy.gif&ct=g" />
+<h3 align="center">Developer | Hobby Artist | Student </h3>
+  
+</div> 
+
+
 
 <div align="center">
 
@@ -18,35 +24,117 @@
 
 </div>
 
+<br>
+<br>
 
 
-<img align="left" height="100" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gxhq7rscp7qbxpm4s2t9wi2ls2eh3wr4zp6c23n6&rid=giphy.gif&ct=g" />
+<div class='container' align="center">
+<img style="height: auto; width: 33.33%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Grem6&theme=white&hide_border=true&include_all_commits=true&count_private=false" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 33.33%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Grem6&theme=white&hide_border=true" />
+</div>
 
+
+<div class='container' align="center">
+<img style="height: auto; width: 33.33%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grem6&theme=white&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+</div>
+
+<br>
+<br>
 
 <div align="center">
+  
+  
+[<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="53"/>](https://github.com/Grem6)
+[<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/>](https://github.com/Grem6)
+[<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/>](https://github.com/Grem6)
+  
+  
+</div>
+
+
+<br>
+<br>
+
+<div class='container' align="center">
+<img style="height: 550px; width: auto;" class="img" src="https://metrics.lecoq.io/Grem6?template=classic&base.header=0&isocalendar=1&lines=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&introduction=false&introduction.title=true&config.timezone=Asia%2FKolkata" />
+&nbsp;
+&nbsp;
+<img style="height: 550px; width: auto;" class="img" src="https://spotify-github-profile.vercel.app/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&show_offline=false&background_color=ffffff&bar_color_cover=false)" />
+</div>
+
+
+<!-- https://i.pinimg.com/750x/9b/4e/c7/9b4ec7ba0fc7e217d8f0f0675038c6d7.jpg -->
+<!-- https://i.pinimg.com/750x/9e/9c/ad/9e9cad53d3eddc421a2ac0a6cf2e3948.jpg -->
+
+<!-- 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&show_offline=false&background_color=ffffff&bar_color_cover=false)](https://github.com/Grem6) 
+-->
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
 
   
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,tensorflow,github,git,sqlite,regex,react,pytorch,ps,nodejs,netlify,heroku,nextjs,mongodb,mysql,jquery,js,html,flask,figma,xd,django,css,cpp,blender,selenium,bootstrap&perline=14)](https://github.com/Grem6)
-  
-  
- </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&show_offline=false&background_color=ffffff&bar_color_cover=false)](https://github.com/Grem6)
+
  
  
-# 📈 Grem's Stats:
-![](https://github-readme-stats.vercel.app/api?username=grem6&theme=white&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=grem6&theme=white&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=grem6&theme=white&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
+
+
 
 
 
 
 ![snake gif](https://github.com/Grem6/Grem6/blob/output/github-contribution-grid-snake.svg)
-
-
-
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="1080" height="1080">
 
+
+<!-- <table class="images" width="100%"  style="border:0px solid white; width:100%;">
+    <tr style="border: 0px;">
+        <td width="33%" style="border:0px; width:33.33%">
+            <img src="https://skillicons.dev/icons?i=py,vscode,tensorflow,github,git,sqlite,regex,react,pytorch,ps,nodejs,netlify,heroku,nextjs,mongodb,mysql,jquery,js,html,flask,figma,xd,django,css,cpp,blender,selenium,bootstrap&perline=7" />
+        </td>
+        <td width="33%" style="border:0px; width:33.33%">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact" />
+        </td>
+        <td width="33%" style="border:0px; width:33.33%">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact" />
+        </td>
+    </tr>
+</table> -->
+
+<!--
+
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,tensorflow,github,git,sqlite,regex,react,pytorch,ps,nodejs,netlify,heroku,nextjs,mongodb,mysql,jquery,js,html,flask,figma,xd,django,css,cpp,blender,selenium,bootstrap&perline=7)](https://github.com/Grem6)
+
+-->
 
 
 <!--
@@ -64,4 +152,15 @@
 
 <!--
 ![3d](./profile-3d-contrib/profile-green-animate.svg)
+-->
+
+<!--
+
+<table cellpadding="0">
+  <tr style="padding: 0"> 
+    <td valign="top"><img src="https://skillicons.dev/icons?i=py,vscode,tensorflow,github,git,sqlite,regex,react,pytorch,ps,nodejs,netlify,heroku,nextjs,mongodb,mysql,jquery,js,html,flask,figma,xd,django,css,cpp,blender,selenium,bootstrap&perline=7" alt="icon" width=""/> </td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grem6&theme=white&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/></td>
+  </tr>
+</table>
+
 -->
