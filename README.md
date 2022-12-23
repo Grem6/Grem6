@@ -17,19 +17,18 @@
 
 
 
-
+<img align="left" height="100" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gxhq7rscp7qbxpm4s2t9wi2ls2eh3wr4zp6c23n6&rid=giphy.gif&ct=g" />
 
 
 <div align="center">
- 
-<img align="center" height="300" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gxhq7rscp7qbxpm4s2t9wi2ls2eh3wr4zp6c23n6&rid=giphy.gif&ct=g" />
+
   
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,tensorflow,github,git,sqlite,regex,react,pytorch,ps,nodejs,netlify,heroku,nextjs,mongodb,mysql,jquery,js,html,flask,figma,xd,django,css,cpp,blender,selenium,bootstrap&perline=14)](https://github.com/Grem6)
   
   
  </div>
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&show_offline=true&background_color=ffffff&bar_color_cover=false)](https://github.com/Grem6)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&show_offline=false&background_color=ffffff&bar_color_cover=false)](https://github.com/Grem6)
  
  
 # 📈 Grem's Stats:
@@ -40,10 +39,10 @@
 
 
 ![snake gif](https://github.com/Grem6/Grem6/blob/output/github-contribution-grid-snake.svg)
-![3d](./profile-3d-contrib/profile-green-animate.svg)
 
 
 
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="1080" height="1080">
 
 
 
@@ -60,4 +59,6 @@
 <img align="left" height="300" src="assests/terminal.gif" />
 -->
 
-
+<!--
+![3d](./profile-3d-contrib/profile-green-animate.svg)
+-->
