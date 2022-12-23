@@ -1,9 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2p&weight=700&size=150&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1920&height=1080&lines=Hello!;I+am+Grem.;I+do%2C;Art;%26;Code)](https://git.io/typing-svg)
 
+<div align="center">
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Grem6&data=followers,repositories,stars,commits&theme=default)](https://github.com/Grem6/github-widgetbox)
 
- 
+</div> 
 
 <div align="center">
 
@@ -34,10 +36,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=grem6&theme=white&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=grem6&theme=white&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=grem6&theme=white&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
+
+
 ![snake gif](https://github.com/Grem6/Grem6/blob/output/github-contribution-grid-snake.svg)
-
-
-
 
 
 
