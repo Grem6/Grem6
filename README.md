@@ -37,7 +37,7 @@
 
 
 <div class='container' align="center">
-<img style="height: auto; width: 33.33%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grem6&theme=white&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grem6&theme=white&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
 <br>
@@ -58,10 +58,10 @@
 <br>
 
 <div class='container' align="center">
-<img style="height: 550px; width: auto;" class="img" src="https://metrics.lecoq.io/Grem6?template=classic&base.header=0&isocalendar=1&lines=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&introduction=false&introduction.title=true&config.timezone=Asia%2FKolkata" />
+<img style="height: 500px; width: auto;" class="img" src="https://metrics.lecoq.io/Grem6?template=classic&base.header=0&isocalendar=1&lines=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&introduction=false&introduction.title=true&config.timezone=Asia%2FKolkata" />
 &nbsp;
 &nbsp;
-<img style="height: 550px; width: auto;" class="img" src="https://spotify-github-profile.vercel.app/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&show_offline=false&background_color=ffffff&bar_color_cover=false)" />
+<img style="height: 500px; width: auto;" class="img" src="https://spotify-github-profile.vercel.app/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&show_offline=false&background_color=ffffff&bar_color_cover=false)" />
 </div>
 
 
