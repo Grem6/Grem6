@@ -1,19 +1,9 @@
 
 <!--greating-->
 
-<div align="center">
-  
-<picture>
-<source 
-  srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=150&duration=2000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=1920&height=1080&lines=Hello!;I+am+Grem.;I+do%2C;Art;%26;Code"
-  media="(prefers-color-scheme: dark)"/>
-<source
-  srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=150&duration=2000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1920&height=1080&lines=Hello!;I+am+Grem.;I+do%2C;Art;%26;Code"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=150&duration=2000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1920&height=1080&lines=Hello!;I+am+Grem.;I+do%2C;Art;%26;Code" />
-</picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=150&duration=2000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1920&height=1080&lines=Hello!)](https://github.com/Grem6)
 
-</div> 
+
 
 
 
@@ -37,6 +27,8 @@
  
 </div> 
 
+<br>
+<br>
 
 <!-- Icon and social links -->
 
