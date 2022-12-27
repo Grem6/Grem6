@@ -1,11 +1,44 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=150&duration=2000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1920&height=1080&lines=Hello!;I+am+Grem.;I+do%2C;Art;%26;Code)](https://github.com/Grem6)
+<!--greating-->
+
+<div align="center">
+  
+<picture>
+<source 
+  srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=150&duration=2000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=1920&height=1080&lines=Hello!;I+am+Grem.;I+do%2C;Art;%26;Code"
+  media="(prefers-color-scheme: dark)"/>
+<source
+  srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=150&duration=2000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1920&height=1080&lines=Hello!;I+am+Grem.;I+do%2C;Art;%26;Code"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=150&duration=2000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1920&height=1080&lines=Hello!;I+am+Grem.;I+do%2C;Art;%26;Code" />
+</picture>
+
+</div> 
+
+
+
+<!-- widget box  -->
 
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Grem6&data=followers,repositories,stars,commits&theme=default)](https://github.com/Grem6/github-widgetbox)
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Grem6&data=followers,repositories,stars,commits&theme=default)](https://github.com/Grem6/github-widgetbox) -->
   
+<picture>
+<source 
+  srcset="[GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Grem6&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Grem6/github-widgetbox)"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="[GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Grem6&data=followers,repositories,stars,commits&theme=default)](https://github.com/Grem6/github-widgetbox)"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Grem6&data=followers,repositories,stars,commits&theme=default" />
+</picture>  
+ 
 </div> 
+
+
+<!-- Icon and social links -->
 
 <div align="center">
   
@@ -28,13 +61,18 @@
 <br>
 
 
+<!--git status-->
+
 <div class='container' align="center">
-<img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Grem6&theme=white&hide_border=true&include_all_commits=true&count_private=false" />
+  
+  
+<img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Grem6&show_icons=true&custom_title=Grem&#39;s&nbsp;Stats&hide_border=true" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 45%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Grem6&theme=white&hide_border=true" />
 </div>
 
+<br>
 
 <div class='container' align="center">
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grem6&theme=white&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
