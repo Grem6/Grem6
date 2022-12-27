@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: user/metrics@master
+      - uses: Grem6/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
