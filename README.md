@@ -65,6 +65,32 @@
 </div>
 
 
+<div class='container' align="center">
+<img style="height: auto; width: auto;" class="img" src="https://github.com/Grem6/Grem6/blob/output/github-contribution-grid-snake.svg" >
+&nbsp;
+&nbsp;
+<!--<img style="height: 500px; width: auto;" src="./profile-3d-contrib/profile-green-animate.svg"> -->
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- old_code-->
+
 <!-- https://i.pinimg.com/750x/9b/4e/c7/9b4ec7ba0fc7e217d8f0f0675038c6d7.jpg -->
 <!-- https://i.pinimg.com/750x/9e/9c/ad/9e9cad53d3eddc421a2ac0a6cf2e3948.jpg -->
 
@@ -72,48 +98,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&show_offline=false&background_color=ffffff&bar_color_cover=false)](https://github.com/Grem6) 
 -->
 
-
-
-
- 
- 
- 
- 
- 
- 
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-![snake gif](https://github.com/Grem6/Grem6/blob/output/github-contribution-grid-snake.svg)
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="1080" height="1080">
 
 
 <!-- <table class="images" width="100%"  style="border:0px solid white; width:100%;">
