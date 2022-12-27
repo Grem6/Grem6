@@ -11,19 +11,7 @@
 
 <div align="center">
 
-<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Grem6&data=followers,repositories,stars,commits&theme=default)](https://github.com/Grem6/github-widgetbox) -->
-  
-<picture>
-<source 
-  srcset="[GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Grem6&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Grem6/github-widgetbox)"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="[GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Grem6&data=followers,repositories,stars,commits&theme=default)](https://github.com/Grem6/github-widgetbox)"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Grem6&data=followers,repositories,stars,commits&theme=default" />
-</picture>  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Grem6&data=followers,repositories,stars,commits&theme=default)](https://github.com/Grem6/github-widgetbox) 
  
 </div> 
 
