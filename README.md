@@ -46,7 +46,7 @@
 <div class='container' align="center">
   
   
-<img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Grem6&show_icons=true&custom_title=Grem&#39;s&nbsp;Stats&hide_border=true" />
+<img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Grem6&show_icons=true&include_all_commits=true&custom_title=Grem&#39;s&nbsp;Stats&hide_border=true" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 45%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Grem6&theme=white&hide_border=true" />
