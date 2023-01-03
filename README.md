@@ -6,7 +6,6 @@
 
 
 
-
 <!-- widget box  -->
 
 <div align="center">
@@ -46,7 +45,7 @@
 <div class='container' align="center">
   
   
-<img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Grem6&show_icons=true&include_all_commits=true&custom_title=Grem&#39;s&nbsp;Stats&hide_border=true" />
+<img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=grem6&show_icons=true&include_all_commits=true&custom_title=Grem&#39;s&nbsp;Stats&hide_border=true" />
 &nbsp;
 &nbsp;
 
