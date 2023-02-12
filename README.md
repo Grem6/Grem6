@@ -75,10 +75,10 @@
 <br>
 
 <div class='container' align="center">
-<img style="height: 500px; width: auto;" class="img" src="github-metrics.svg" />
+<img style="height: 450px; width: auto;" class="img" src="github-metrics.svg" />
 &nbsp;
 &nbsp;
-<img style="height: 500px; width: auto;" class="img" src="https://spotify-github-profile.vercel.app/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&show_offline=false&background_color=ffffff&bar_color_cover=false)" />
+<img style="height: 450px; width: auto;" class="img" src="https://spotify-github-profile.vercel.app/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&show_offline=false&background_color=ffffff&bar_color_cover=false)" />
 </div>
 
 
@@ -86,7 +86,7 @@
 <img style="height: auto; width: auto;" class="img" src="https://github.com/Grem6/Grem6/blob/output/github-contribution-grid-snake.svg" >
 &nbsp;
 &nbsp;
-<!--<img style="height: 500px; width: auto;" src="./profile-3d-contrib/profile-green-animate.svg"> -->
+<!--<img style="height: 450px; width: auto;" src="./profile-3d-contrib/profile-green-animate.svg"> -->
 </div>
 
 
