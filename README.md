@@ -94,9 +94,7 @@
 
 
 <div class='container' align="center">
-
-<img style="height: auto; width: 2175px;" src="https://user-images.githubusercontent.com/97451337/218661030-c8c87500-c553-4ffa-8af3-8beb5e5fb4b2.gif">
-
+<img style="height: auto; width: 3045px;" class="img" src="https://user-images.githubusercontent.com/97451337/218661030-c8c87500-c553-4ffa-8af3-8beb5e5fb4b2.gif" >
 </div>
 
 
