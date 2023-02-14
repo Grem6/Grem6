@@ -54,6 +54,8 @@
 <br>
 
 <div class='container' align="center">
+<img style="height: auto; width: 100px;" class="img" src="https://user-images.githubusercontent.com/97451337/218658645-7b9f89c7-c3a7-48d4-b9f8-b6fbd16aebc5.gif" >
+<img style="height: auto; width: 100px;" class="img" src="https://user-images.githubusercontent.com/97451337/218659166-aec703e0-1e5b-4912-83aa-88af0c97223a.gif" >
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-grem6.vercel.app/api/top-langs/?username=Grem6&theme=white&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
@@ -83,6 +85,7 @@
 
 
 <div class='container' align="center">
+
 <img style="height: auto; width: auto;" class="img" src="https://github.com/Grem6/Grem6/blob/output/github-contribution-grid-snake.svg" >
 &nbsp;
 &nbsp;
@@ -90,21 +93,17 @@
 </div>
 
 
+<div class='container' align="center">
+
+<img style="height: auto; width: 2175px;" src="https://user-images.githubusercontent.com/97451337/218661030-c8c87500-c553-4ffa-8af3-8beb5e5fb4b2.gif">
+
+</div>
 
 
 
+<!-- ![goku-gif](https://user-images.githubusercontent.com/97451337/218658554-d1de9665-1d80-4191-a6d9-17111b66bdce.gif)
 
-
-
-
-
-
-
-
-
-
-
-
+![buzz](https://user-images.githubusercontent.com/97451337/218659490-bb27718c-9245-4877-a8d7-1fad73dfb7e9.gif) -->
 
 <!-- old_code-->
 
