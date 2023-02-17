@@ -31,7 +31,8 @@
 <div align="center">
 
   <a href="">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/grem.san)</a>
-  <a href="">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-kumar-a904a7237/)</a>
+  <a href="">[![LinkedIn]()</a>
+<!-- https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-kumar-a904a7237/  -->
   <a href="">[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tau8ldnumegch3rgpjwayg4wg)</a>
 
 </div>
