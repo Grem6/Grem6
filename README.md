@@ -87,6 +87,7 @@
 <div class='container' align="center">
 
 <img style="height: auto; width: auto;" class="img" src="https://github.com/Grem6/Grem6/blob/output/github-contribution-grid-snake.svg" >
+![Snake animation](https://github.com/Grem6/Grem6/blob/output/github-contribution-grid-snake.svg)
 &nbsp;
 &nbsp;
 <!--<img style="height: 450px; width: auto;" src="./profile-3d-contrib/profile-green-animate.svg"> -->
