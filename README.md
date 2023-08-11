@@ -98,7 +98,6 @@
 </div>
 
 
-[![Snake animation](https://github.com/Grem6/Grem6/blob/output/github-contribution-grid-snake.svg)
 
 
 
