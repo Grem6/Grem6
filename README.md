@@ -146,29 +146,30 @@
 
 <!--art section-->
 
-
+## 🧑‍🎨 My Art Gallery
 
 <div class='container' align="center">
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/e4d22395-6d4c-4058-b497-26dc2cdd3d08" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/ac7df24a-27b0-4575-ace4-6e1b25f825bf" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/724c2abb-ad70-4a97-989e-319cbec159e6" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/13f05795-6145-40a5-8f9c-accef458f225" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/60c43913-d52e-403e-b9f8-e13e6ef0b4f8" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/129df72f-5101-4e3b-96b3-9631da4d5be3" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/65af0dbd-75d2-42c5-801a-dffd365b6f16" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/c560caeb-6a87-4b95-b772-59ff4c1c27aa" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/6ccc71da-e3aa-4738-8803-30e9cb895096" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/413467b3-3f8a-4d52-8953-364a2aaa186d" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/8347ccea-5c03-4127-b63c-a65011813828" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/42f68de8-37e0-45a1-a4c4-2ed3d3d7e38e" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/0e3d15de-a860-48b5-b2ef-b726272d2ce6" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/45fdba4d-635c-4189-8fae-c0a78565ffcb" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/fa157fd6-7e40-42a4-9540-fe1aa9d39f9c" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/184d35fb-59eb-4620-a337-b0378cd4bdd6" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/2b06ccc0-6b2f-4d02-b443-28ca9c0e17b4" >
-<img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/6c92f767-7850-4897-b5d8-deabff6998f4" >
-
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/e4d22395-6d4c-4058-b497-26dc2cdd3d08" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/ac7df24a-27b0-4575-ace4-6e1b25f825bf" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/724c2abb-ad70-4a97-989e-319cbec159e6" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/13f05795-6145-40a5-8f9c-accef458f225" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/2b06ccc0-6b2f-4d02-b443-28ca9c0e17b4" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/fed597db-5422-49e9-b70a-9618d4811a9c" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/60c43913-d52e-403e-b9f8-e13e6ef0b4f8" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/c560caeb-6a87-4b95-b772-59ff4c1c27aa" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/6ccc71da-e3aa-4738-8803-30e9cb895096" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/413467b3-3f8a-4d52-8953-364a2aaa186d" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/42f68de8-37e0-45a1-a4c4-2ed3d3d7e38e" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/0e3d15de-a860-48b5-b2ef-b726272d2ce6" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/d0bae2c9-d3f2-42fc-8ab9-4b3d9d836d05" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/8347ccea-5c03-4127-b63c-a65011813828" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/45fdba4d-635c-4189-8fae-c0a78565ffcb" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/fa157fd6-7e40-42a4-9540-fe1aa9d39f9c" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/129df72f-5101-4e3b-96b3-9631da4d5be3" >
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/65af0dbd-75d2-42c5-801a-dffd365b6f16" >
+<!-- <img style="height: auto; width: 500px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/184d35fb-59eb-4620-a337-b0378cd4bdd6" > -->
 </div>
+
 
 
 <!-- old_code-->
