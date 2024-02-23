@@ -91,11 +91,10 @@
 
 <div class='container' align="center">
   
-  
-<img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats-grem6.vercel.app/api?username=Grem6&show_icons=true&include_all_commits=true&custom_title=Grem&#39;s&nbsp;Stats&hide_border=true&count_private=true" /> 
+<img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats-grem6.vercel.app/api?username=grem6&show_icons=true&&bg_color=00000000&include_all_commits=true&custom_title=Grem&#39;s&nbsp;Stats&hide_border=true&count_private=true&rank_icon=percentile" /> 
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 45%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Grem6&theme=white&hide_border=true&count_private=true" />
+<img style="height: auto; width: 45%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=grem6&theme=white&hide_border=true&count_private=true" />
 </div>
 
 <br>
@@ -103,7 +102,7 @@
 <div class='container' align="center">
 <img style="height: auto; width: 100px;" class="img" src="https://user-images.githubusercontent.com/97451337/218658645-7b9f89c7-c3a7-48d4-b9f8-b6fbd16aebc5.gif" >
 <img style="height: auto; width: 100px;" class="img" src="https://user-images.githubusercontent.com/97451337/218659166-aec703e0-1e5b-4912-83aa-88af0c97223a.gif" >
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-grem6.vercel.app/api/top-langs/?username=Grem6&theme=white&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-grem6.vercel.app/api/top-langs/?username=grem6&theme=white&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
 </div>
 
 <br>
@@ -118,7 +117,6 @@
   
   
 </div>
-
 
 <br>
 <br>
