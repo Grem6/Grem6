@@ -27,23 +27,23 @@ jobs:
       - name: Fetch Values from Vercel App
         run: |
           FOLLOWERS=$(python - <<EOF
-import requests
-
-response = requests.get('https://profile-nrx3fysxa-grem6.vercel.app/api/followers')
-followers = response.json().get('followers', '')
-print(followers)
-EOF
-)
-          REPOSITORIES=$(python - <<EOF
-import requests
-
-response = requests.get('https://profile-nrx3fysxa-grem6.vercel.app/api/repositories')
-repositories = response.json().get('repositories', '')
-print(repositories)
-EOF
-)
-          echo "FOLLOWERS value: $FOLLOWERS"
-          echo "REPOSITORIES value: $REPOSITORIES"
+          import requests
+            
+            response = requests.get('https://profile-nrx3fysxa-grem6.vercel.app/api/followers')
+            followers = response.json().get('followers', '')
+            print(followers)
+            EOF
+            )
+            REPOSITORIES=$(python - <<EOF
+            import requests
+            
+            response = requests.get('https://profile-nrx3fysxa-grem6.vercel.app/api/repositories')
+            repositories = response.json().get('repositories', '')
+            print(repositories)
+            EOF
+            )
+            echo "FOLLOWERS value: $FOLLOWERS"
+            echo "REPOSITORIES value: $REPOSITORIES"
 
       - name: Update README.md
         run: |
