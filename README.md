@@ -16,6 +16,10 @@
 
 <!-- Icon and social links -->
 
+## Followers: FOLLOWERS_PLACEHOLDER
+
+## Repositories: REPOSITORIES_PLACEHOLDER
+
 <div align="center">
   
 <img align="center" height="100" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gxhq7rscp7qbxpm4s2t9wi2ls2eh3wr4zp6c23n6&rid=giphy.gif&ct=g" />
