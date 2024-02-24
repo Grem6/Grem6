@@ -26,6 +26,13 @@ jobs:
           export FOLLOWERS=$(curl -s https://profile-nrx3fysxa-grem6.vercel.app/api/followers)
           export REPOSITORIES=$(curl -s https://profile-nrx3fysxa-grem6.vercel.app/api/repositories)
 
+      - name: Debug Sed Command
+        run: |
+          echo "Sed command: sed -i 's/FOLLOWERS_PLACEHOLDER/'"$FOLLOWERS"'/g' README.md"
+          echo "FOLLOWERS value: $FOLLOWERS"
+          echo "REPOSITORIES value: $REPOSITORIES"
+
+
       - name: Update README.md
         run: |
           sed -i "s/FOLLOWERS_PLACEHOLDER/$FOLLOWERS/g" README.md
