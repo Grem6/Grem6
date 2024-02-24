@@ -4,7 +4,10 @@ on:
   schedule:
     - cron: '0 * * * *' # Runs every hour
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push:
+    branches:
+      - master
+      - main
 
 jobs:
   update_readme:
@@ -13,25 +16,34 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          node-version: '14'
+          python-version: '3.x'
 
-      - name: Install Dependencies
-        run: npm install
+      - name: Install requests library
+        run: python -m pip install requests
 
       - name: Fetch Values from Vercel App
         run: |
-          export FOLLOWERS=$(curl -s https://profile-nrx3fysxa-grem6.vercel.app/api/followers)
-          export REPOSITORIES=$(curl -s https://profile-nrx3fysxa-grem6.vercel.app/api/repositories)
+          FOLLOWERS=$(python - <<EOF
+import requests
 
-      - name: Debug Sed Command
-        run: |
-          echo "Sed command: sed -i 's/FOLLOWERS_PLACEHOLDER/'"$FOLLOWERS"'/g' README.md"
+response = requests.get('https://profile-nrx3fysxa-grem6.vercel.app/api/followers')
+followers = response.json().get('followers', '')
+print(followers)
+EOF
+)
+          REPOSITORIES=$(python - <<EOF
+import requests
+
+response = requests.get('https://profile-nrx3fysxa-grem6.vercel.app/api/repositories')
+repositories = response.json().get('repositories', '')
+print(repositories)
+EOF
+)
           echo "FOLLOWERS value: $FOLLOWERS"
           echo "REPOSITORIES value: $REPOSITORIES"
-
 
       - name: Update README.md
         run: |
@@ -43,7 +55,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "README.md - status update"
+          git commit -m "Update README.md - status"
           git push
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
