@@ -26,10 +26,16 @@ jobs:
 
       - name: Fetch Values from Vercel App
         run: |
-          FOLLOWERS=$(curl -s https://profile-readme-stats-git-main-grem6.vercel.app/api/followers)
-          REPOSITORIES=$(curl -s https://profile-readme-stats-git-main-grem6.vercel.app/api/repositories)
-          sed "s/FOLLOWERS_PLACEHOLDER/$FOLLOWERS/g" README.template.md > README.md.tmp
-          sed -i "s/REPOSITORIES_PLACEHOLDER/$REPOSITORIES/g" README.md.tmp
+            FOLLOWERS=$(curl -s https://profile-readme-stats-git-main-grem6.vercel.app/api/followers)
+            REPOSITORIES=$(curl -s https://profile-readme-stats-git-main-grem6.vercel.app/api/repositories)
+            COMMITS=$(curl -s https://profile-readme-stats-git-main-grem6.vercel.app/api/commits)
+        
+            sed "s/FOLLOWERS_PLACEHOLDER/$FOLLOWERS/g" README.template.md > README.tmp
+            sed -i "s/REPOSITORIES_PLACEHOLDER/$REPOSITORIES/g" README.tmp
+            sed -i "s/COMMITS_PLACEHOLDER/$COMMITS/g" README.tmp
+            
+            mv README.tmp README.md
+
 
       - name: Commit and Push Changes
         run: |
