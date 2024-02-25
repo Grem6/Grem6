@@ -34,7 +34,7 @@ jobs:
             sed -i "s/REPOSITORIES_PLACEHOLDER/$REPOSITORIES/g" README.tmp
             sed -i "s/COMMITS_PLACEHOLDER/$COMMITS/g" README.tmp
             
-            mv README.tmp README.md
+            #mv README.tmp README.md
 
 
       - name: Commit and Push Changes
