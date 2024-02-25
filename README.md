@@ -1,5 +1,5 @@
 <div align="center"> 
-<img align="left" height="200" src="https://instagram.fcok9-1.fna.fbcdn.net/v/t51.2885-19/380478715_957979258629008_2125616226155806041_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fcok9-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=PPMoJ4mMEJsAX9ziGgg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfB5qsk8sJ9GIE342p9jzaLIXJ2IZ1Xo1ecHDPILoRoKLw&oe=65E0E71D&_nc_sid=8b3546" />
+<img align="left" height="180" src="https://instagram.fcok9-1.fna.fbcdn.net/v/t51.2885-19/380478715_957979258629008_2125616226155806041_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fcok9-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=PPMoJ4mMEJsAX9ziGgg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfB5qsk8sJ9GIE342p9jzaLIXJ2IZ1Xo1ecHDPILoRoKLw&oe=65E0E71D&_nc_sid=8b3546" />
 <img align="right" height="150" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=200&duration=2000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1920&height=1080&lines=Hello!;I+am+Grem.;I+do%2C;Art;%26;Code" />
 </div>
 
@@ -9,7 +9,7 @@
 
 <div align="left">
  
-&nbsp;&nbsp;&nbsp;**REP0** **Repositories** &nbsp;&nbsp;&nbsp;&nbsp;**6** **Followers**&nbsp;&nbsp;&nbsp;&nbsp;**26** **Commits**
+&nbsp;&nbsp;&nbsp;**REP0S** **Repositories** &nbsp;&nbsp;&nbsp;&nbsp;**6** **Followers**&nbsp;&nbsp;&nbsp;&nbsp;**26** **Commits**
 <br>
 <br>
 <a href="">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/grem.san)</a>
