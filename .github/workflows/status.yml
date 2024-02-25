@@ -2,7 +2,7 @@ name: Update Profile Readme - status
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 0 * * 0' # Runs every Sunday at midnight
   workflow_dispatch:
   push:
     branches:
@@ -16,42 +16,23 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
         with:
-          python-version: '3.x'
+          node-version: '14'
 
-      - name: Install requests library
-        run: python -m pip install requests
+      - name: Install Dependencies
+        run: npm install
 
       - name: Fetch Values from Vercel App
         run: |
-            FOLLOWERS=$(python - <<EOF
-            import requests
-                
-            response = requests.get('https://profile-nrx3fysxa-grem6.vercel.app/api/followers')
-            followers = response.json().get('followers', '')
-            print(followers)
-            EOF
-            )
-            
-            REPOSITORIES=$(python - <<EOF
-            import requests
-                
-            response = requests.get('https://profile-nrx3fysxa-grem6.vercel.app/api/repositories')
-            repositories = response.json().get('repositories', '')
-            print(repositories)
-            EOF
-            )
-            
-            echo "FOLLOWERS value: $FOLLOWERS"
-            echo "REPOSITORIES value: $REPOSITORIES"
-
+          export FOLLOWERS=$(curl -s https://your-vercel-app-url/api/followers)
+          export REPOSITORIES=$(curl -s https://your-vercel-app-url/api/repositories)
 
       - name: Update README.md
         run: |
           sed -i "s/FOLLOWERS_PLACEHOLDER/$FOLLOWERS/g" README.md
-          sed -i "s/REPOSITORIES_PLACEHOLDER/$REPOSITORIES/g" README.md
+          sed -i "s/REPOSITORIES_PLACEHOLDER/$REPOSITORIES/g" README.md 
 
       - name: Commit Changes
         run: |
