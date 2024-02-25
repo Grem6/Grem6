@@ -26,16 +26,14 @@ jobs:
 
       - name: Fetch Values from Vercel App
         run: |
-          export FOLLOWERS=$(curl -s https://your-vercel-app-url/api/followers)
-          export REPOSITORIES=$(curl -s https://your-vercel-app-url/api/repositories)
+          FOLLOWERS=$(curl -s https://your-vercel-app-url/api/followers)
+          REPOSITORIES=$(curl -s https://your-vercel-app-url/api/repositories)
+          sed "s/FOLLOWERS_PLACEHOLDER/$FOLLOWERS/g" README.template.md > README.md.tmp
+          sed -i "s/REPOSITORIES_PLACEHOLDER/$REPOSITORIES/g" README.md.tmp
 
-      - name: Update README.md
+      - name: Commit and Push Changes
         run: |
-          sed -i "s/FOLLOWERS_PLACEHOLDER/$FOLLOWERS/g" README.md
-          sed -i "s/REPOSITORIES_PLACEHOLDER/$REPOSITORIES/g" README.md 
-
-      - name: Commit Changes
-        run: |
+          mv README.md.tmp README.md
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
