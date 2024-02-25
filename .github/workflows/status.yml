@@ -31,7 +31,7 @@ jobs:
             COMMITS=$(curl -s https://profile-readme-stats-git-main-grem6.vercel.app/api/commits)
         
             sed "s/FOLLOW/$FOLLOWERS/g" README.template.md > README.md.tmp
-            sed -i "s/REPOS/$REPOSITORIES/g" README.md.tmp
+            sed -i "s/REPO_PH/$REPOSITORIES/g" README.md.tmp
             sed -i "s/COMMITS/$COMMITS/g" README.md.tmp
 
 
