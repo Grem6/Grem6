@@ -16,9 +16,9 @@
 
 <!-- Icon and social links -->
 
-## Followers: FOLLOWERS_PLACEHOLDER
+## Followers: 
 
-## Repositories: REPOSITORIES_PLACEHOLDER
+## Repositories: 
 
 <div align="center">
   
