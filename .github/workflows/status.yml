@@ -30,9 +30,9 @@ jobs:
             REPOSITORIES=$(curl -s https://profile-readme-stats-git-main-grem6.vercel.app/api/repositories)
             COMMITS=$(curl -s https://profile-readme-stats-git-main-grem6.vercel.app/api/commits)
         
-            sed "s/FOLLOWERS_PLACEHOLDER/$FOLLOWERS/g" README.template.md > README.md.tmp
-            sed -i "s/REPOSITORIES_PLACEHOLDER/$REPOSITORIES/g" README.md.tmp
-            sed -i "s/COMMITS_PLACEHOLDER/$COMMITS/g" README.md.tmp
+            sed "s/FOLLOW/$FOLLOWERS/g" README.template.md > README.md.tmp
+            sed -i "s/REPO/$REPOSITORIES/g" README.md.tmp
+            sed -i "s/COMMITS/$COMMITS/g" README.md.tmp
 
 
       - name: Commit and Push Changes
