@@ -4,16 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=150&duration=2000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1920&height=1080&lines=Hello!;I+am+Grem.;I+do%2C;Art;%26;Code)](https://github.com/Grem6)
 
 
-<!--api status-->
-
-<div align="center">
-<img align="center" height="100" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gxhq7rscp7qbxpm4s2t9wi2ls2eh3wr4zp6c23n6&rid=giphy.gif&ct=g"/>
-&nbsp;
- 
-**6** **Repositories**     **5** **Followers**        **26** **Commits**
-
-</div>
-
 
 <!-- widget box  -->
 
@@ -33,6 +23,14 @@
   
 <img align="center" height="100" src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47gxhq7rscp7qbxpm4s2t9wi2ls2eh3wr4zp6c23n6&rid=giphy.gif&ct=g" />
 <h3 align="center">Developer | Hobby Artist | Student </h3>
+
+<!--api status-->
+
+<div align="center">
+ 
+**5** **Repositories**     **6** **Followers**        **26** **Commits**
+
+</div>
   
 </div> 
 <div align="center">
