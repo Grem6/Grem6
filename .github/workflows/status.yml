@@ -26,8 +26,8 @@ jobs:
 
       - name: Fetch Values from Vercel App
         run: |
-          FOLLOWERS=$(curl -s https://your-vercel-app-url/api/followers)
-          REPOSITORIES=$(curl -s https://your-vercel-app-url/api/repositories)
+          FOLLOWERS=$(curl -s https://profile-readme-stats-git-main-grem6.vercel.app/api/followers)
+          REPOSITORIES=$(curl -s https://profile-readme-stats-git-main-grem6.vercel.app/api/repositories)
           sed "s/FOLLOWERS_PLACEHOLDER/$FOLLOWERS/g" README.template.md > README.md.tmp
           sed -i "s/REPOSITORIES_PLACEHOLDER/$REPOSITORIES/g" README.md.tmp
 
