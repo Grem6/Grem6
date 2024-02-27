@@ -9,12 +9,15 @@
 
 <div align="left">
  
-&nbsp;&nbsp;&nbsp;**5** **Repositories** &nbsp;&nbsp;&nbsp;&nbsp;**6** **Followers**&nbsp;&nbsp;&nbsp;&nbsp;**29** **Commits**
+&nbsp;&nbsp;&nbsp;**5** **Repositories** &nbsp;&nbsp;&nbsp;&nbsp;**6** **Followers**&nbsp;&nbsp;&nbsp;&nbsp;**30** **Commits**
 <br>
 <br>
-<a href="">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/grem.san)</a>
+&nbsp;&nbsp;[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="icon" width="110"/>](https://instagram.com/grem.san)
+&nbsp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon" width="98"/>]()
+&nbsp;[<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="icon" width="90"/>](https://open.spotify.com/user/tau8ldnumegch3rgpjwayg4wg)
+<!-- <a href="">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/grem.san)</a>
 <a href="">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()</a>
-<a href="">[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tau8ldnumegch3rgpjwayg4wg)</a>
+<a href="">[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tau8ldnumegch3rgpjwayg4wg)</a> -->
 </div> 
 <img style="height: auto; width: 35%;" class="img" src="https://github.com/Grem6/Grem6/blob/output/github-contribution-grid-snake.svg" >
 <br>
