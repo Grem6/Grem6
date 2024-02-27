@@ -12,9 +12,9 @@
 &nbsp;&nbsp;&nbsp;**REPO_PH** **Repositories** &nbsp;&nbsp;&nbsp;&nbsp;**FOLLOW** **Followers**&nbsp;&nbsp;&nbsp;&nbsp;**COMMITS** **Commits**
 <br>
 <br>
-&nbsp;&nbsp;[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="icon" width="110"/>](https://instagram.com/grem.san)
-&nbsp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon" width="98"/>]()
-&nbsp;[<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="icon" width="90"/>](https://open.spotify.com/user/tau8ldnumegch3rgpjwayg4wg)
+&nbsp;&nbsp;[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="icon" width="98"/>](https://instagram.com/grem.san)
+&nbsp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon" width="92"/>]()
+&nbsp;[<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="icon" width="86"/>](https://open.spotify.com/user/tau8ldnumegch3rgpjwayg4wg)
 <!-- <a href="">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/grem.san)</a>
 <a href="">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()</a>
 <a href="">[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tau8ldnumegch3rgpjwayg4wg)</a> -->
