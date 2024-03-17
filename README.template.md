@@ -1,7 +1,8 @@
 <div align="center"> 
-<img align="left" height="180" src="https://instagram.fcok9-1.fna.fbcdn.net/v/t51.2885-19/380478715_957979258629008_2125616226155806041_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fcok9-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=PPMoJ4mMEJsAX9ziGgg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfB5qsk8sJ9GIE342p9jzaLIXJ2IZ1Xo1ecHDPILoRoKLw&oe=65E0E71D&_nc_sid=8b3546" />
+<img align="left" height="180" src="https://github.com/Grem6/Grem6/assets/97451337/820a2f1d-863d-4435-86ce-38ae7c477e8c"/>
 <img align="right" height="150" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=200&duration=2000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1920&height=1080&lines=Hello!;I+am+Grem.;I+do%2C;Art;%26;Code" />
 </div>
+
 
 <br>
 
