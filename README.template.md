@@ -97,7 +97,7 @@
 ## 🧑‍🎨 Art Gallery
 <br>
 <div class='container' align="center">
-<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/e4d22395-6d4c-4058-b497-26dc2cdd3d08" loading="lazy"/>
+<img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/9d9d056f-0213-4418-a11f-b52c7dfe0ea6" loading="lazy"/>
 <img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/ac7df24a-27b0-4575-ace4-6e1b25f825bf" loading="lazy"/>
 <img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/724c2abb-ad70-4a97-989e-319cbec159e6" loading="lazy"/>
 <img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/13f05795-6145-40a5-8f9c-accef458f225" loading="lazy"/>
