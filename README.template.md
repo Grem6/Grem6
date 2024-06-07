@@ -24,10 +24,10 @@
 <br>
 <div align="left">
 <h5>@𝗚𝗿𝗲𝗺𝗺𝘆</h5>
-<h6><i>Developer</i> | <i>Hobby Artist</i> | <i>Student</i></h6>
+<h6>𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿  | 𝗛𝗼𝗯𝗯𝘆 𝗔𝗿𝘁𝗶𝘀𝘁 [3𝗗] | 𝗦𝘁𝘂𝗱𝗲𝗻𝘁</h6>
 <h6>Passionate about learning, coding, and artistry—always exploring, tinkering, and creating.</h6>
-<h6>𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗶𝗻𝗴: Building services with <a href="https://grpc.io/">gRPC</a></h6>
-<h6><i>ℹ️𝖻𝖾𝗌𝗍 𝗏𝗂𝖾𝗐𝖾𝖽 𝗂𝗇 𝗅𝗂𝗀𝗁𝗍 𝗍𝗁𝖾𝗆𝖾</i></h6>
+<h6>𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗶𝗻𝗴: 👨‍🚀 Building services with <a href="https://grpc.io/">gRPC</a></h6>
+<h6><i>🟥𝖻𝖾𝗌𝗍 𝗏𝗂𝖾𝗐𝖾𝖽 𝗂𝗇 𝗅𝗂𝗀𝗁𝗍 𝗍𝗁𝖾𝗆𝖾</i></h6>
 
 </div> 
 <br>
