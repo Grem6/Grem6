@@ -84,16 +84,17 @@
 <br>
 <br>
 <div class='container' align="center">
-<img style="height: 450px; width: auto;" class="img" src="github-metrics.svg" />
+ <img style="height: 400px; width: auto;" class="img" src="github-metrics.svg" />
 &nbsp;
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://spotify-github-profile.vercel.app/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&show_offline=false&background_color=ffffff&bar_color_cover=false)" />
+<img style="height: auto; width: 30%;" class="img" src="https://spotify-github-profile.kittinanx.com/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" />
+
 
 </div>
 <br>
 <br>
-
+<!--
 ## 🧑‍🎨 Art Gallery
 <br>
 <div class='container' align="center">
@@ -116,6 +117,5 @@
 <!-- <img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/fa157fd6-7e40-42a4-9540-fe1aa9d39f9c" > -->
 <!-- <img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/b4a8ce08-1d89-47c5-98a0-db51c0586633" > -->
 </div>
-
 
 
