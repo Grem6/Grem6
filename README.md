@@ -84,7 +84,7 @@
 <br>
 <br>
 <div class='container' align="center">
- <img style="height: 400px; width: auto;" class="img" src="github-metrics.svg" />
+ <img style="height: 380px; width: auto;" class="img" src="github-metrics.svg" />
 &nbsp;
 &nbsp;
 &nbsp;
