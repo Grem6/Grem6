@@ -10,7 +10,7 @@
 
 <div align="left">
  
-&nbsp;&nbsp;&nbsp;**6** **Repositories** &nbsp;&nbsp;&nbsp;&nbsp;**6** **Followers**&nbsp;&nbsp;&nbsp;&nbsp;**4** **Commits**
+&nbsp;&nbsp;&nbsp;**6** **Repositories** &nbsp;&nbsp;&nbsp;&nbsp;**6** **Followers**&nbsp;&nbsp;&nbsp;&nbsp;**5** **Commits**
 <br>
 <br>
 &nbsp;&nbsp;[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="icon" width="98"/>](https://instagram.com/grem.san)
@@ -88,13 +88,13 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 30%;" class="img" src="https://spotify-github-profile.kittinanx.com/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" />
+<img style="height: auto; width: 30%;" class="img" src="https://spotify-github-profile.kittinanx.com/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&background_color=121212&interchange=true&bar_color_cover=true" />
 
 
 </div>
 <br>
 <br>
-<!--
+
 ## 🧑‍🎨 Art Gallery
 <br>
 <div class='container' align="center">
