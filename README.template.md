@@ -23,19 +23,19 @@
 <img style="height: auto; width: 35%;" class="img" src="https://github.com/Grem6/Grem6/blob/output/github-contribution-grid-snake.svg" >
 <br>
 <div align="left">
-<h5>@𝗚𝗿𝗲𝗺𝗺𝘆</h5>
+<img src="https://github.com/user-attachments/assets/7df9c730-3bab-4c48-a221-6314d4134b33" alt="icon" width="60"/>
+<h5>@𝗚𝗿𝗲𝗺𝗺𝘆</h5> 
 <h6>𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿  | 𝗛𝗼𝗯𝗯𝘆 𝗔𝗿𝘁𝗶𝘀𝘁 [3𝗗] | 𝗦𝘁𝘂𝗱𝗲𝗻𝘁</h6>
 <h6>Passionate about learning, coding, and artistry—always exploring, tinkering, and creating.</h6>
 <h6>𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗶𝗻𝗴: 👨‍🚀 Building services with <a href="https://grpc.io/">gRPC</a></h6>
-<h6><i>🟥𝖻𝖾𝗌𝗍 𝗏𝗂𝖾𝗐𝖾𝖽 𝗂𝗇 𝗅𝗂𝗀𝗁𝗍 𝗍𝗁𝖾𝗆𝖾</i></h6>
-
+<h6><i>🟥𝖻𝖾𝗌𝗍 𝗏𝗂𝖾𝗐𝖾𝖽 𝗂𝗇 𝗅𝗂𝗀𝗁𝗍 𝗍𝗁𝖾𝗆𝖾</i></h6> 
 </div> 
 <br>
 
 
 <div align="center">
 
-
+ 
 &nbsp;
 &nbsp;
 &nbsp;
@@ -89,8 +89,6 @@
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 30%;" class="img" src="https://spotify-github-profile.kittinanx.com/api/view?uid=tau8ldnumegch3rgpjwayg4wg&cover_image=true&theme=default&background_color=121212&interchange=true&bar_color_cover=true" />
-
-
 </div>
 <br>
 <br>
@@ -118,4 +116,47 @@
 <!-- <img style="height: auto; width: 200px;" class="img" src="https://github.com/Grem6/Grem6/assets/97451337/b4a8ce08-1d89-47c5-98a0-db51c0586633" > -->
 </div>
 
+
+<!--
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+</p>
 
