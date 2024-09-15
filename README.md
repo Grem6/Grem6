@@ -10,7 +10,7 @@
 
 <div align="left">
  
-&nbsp;&nbsp;&nbsp;**6** **Repositories** &nbsp;&nbsp;&nbsp;&nbsp;**6** **Followers**&nbsp;&nbsp;&nbsp;&nbsp;**5** **Commits**
+&nbsp;&nbsp;&nbsp;**6** **Repositories** &nbsp;&nbsp;&nbsp;&nbsp;**6** **Followers**&nbsp;&nbsp;&nbsp;&nbsp;**4** **Commits**
 <br>
 <br>
 &nbsp;&nbsp;[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="icon" width="98"/>](https://instagram.com/grem.san)
