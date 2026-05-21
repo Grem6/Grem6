@@ -10,7 +10,7 @@
 
 <div align="left">
  
-&nbsp;&nbsp;&nbsp;**6** **Repositories** &nbsp;&nbsp;&nbsp;&nbsp;**6** **Followers**&nbsp;&nbsp;&nbsp;&nbsp;**1** **Commits**
+&nbsp;&nbsp;&nbsp;**6** **Repositories** &nbsp;&nbsp;&nbsp;&nbsp;**6** **Followers**&nbsp;&nbsp;&nbsp;&nbsp;**2** **Commits**
 <br>
 <br>
 &nbsp;&nbsp;[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="icon" width="98"/>](https://instagram.com/grem.san)
@@ -59,11 +59,27 @@
 </div>
 <br>
 <br>
+<div align="center">
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=grem6&repo=grem6"/>
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=grem6&repo=github-readme-stats"/>
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=grem6&repo=AutoSpotify"/>
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=grem6&repo=profile-readme-stats"/>
+</div>
+<br>
+<br>
 <div class='container' align="center">  
-<img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats-grem6.vercel.app/api?username=grem6&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=Grem%27s+Stats" width="48%"/> 
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-grem6.vercel.app/api?username=grem6&show_icons=true&&bg_color=00000000&include_all_commits=true&custom_title=Grem&#39;s&nbsp;Stats&hide_border=true&count_private=true&rank_icon=percentile" /> 
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img"  src="https://github-readme-streak-stats.herokuapp.com/?user=grem6&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff" width="48%"/>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=grem6&theme=white&hide_border=true&count_private=true" />
 </div>
 <br>
 <br>
