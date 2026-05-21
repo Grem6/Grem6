@@ -10,7 +10,7 @@
 
 <div align="left">
  
-&nbsp;&nbsp;&nbsp;**6** **Repositories** &nbsp;&nbsp;&nbsp;&nbsp;**6** **Followers**&nbsp;&nbsp;&nbsp;&nbsp;**0** **Commits**
+&nbsp;&nbsp;&nbsp;**6** **Repositories** &nbsp;&nbsp;&nbsp;&nbsp;**6** **Followers**&nbsp;&nbsp;&nbsp;&nbsp;**1** **Commits**
 <br>
 <br>
 &nbsp;&nbsp;[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="icon" width="98"/>](https://instagram.com/grem.san)
@@ -59,7 +59,7 @@
 </div>
 <br>
 <br>
-<!-- <div align="center">
+<div align="center">
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/pin/?username=grem6&repo=grem6"/>
@@ -82,7 +82,7 @@
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=grem6&theme=white&hide_border=true&count_private=true" />
 </div>
 <br>
-<br> -->
+<br>
 <div class='container' align="center">
  <img style="height: 380px; width: auto;" class="img" src="github-metrics.svg" />
 &nbsp;
